@@ -12,6 +12,7 @@ public class Sample {
 	
 	System.out.println("This is Chaitra");
 	
+	System.out.println("This is Chaitra");
 	
 	
   }
