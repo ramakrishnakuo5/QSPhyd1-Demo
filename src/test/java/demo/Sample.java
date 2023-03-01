@@ -8,5 +8,7 @@ public class Sample {
   {
 	System.out.println("Hi This is Sample");
 	
+	
+	System.out.println("This is ritu ");
   }
 }
